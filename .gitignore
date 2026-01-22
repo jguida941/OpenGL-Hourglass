@@ -1,0 +1,29 @@
+# Visual Studio / MSBuild
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+
+# Build output
+**/Debug/
+**/Release/
+**/x64/
+**/Win32/
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.tlog
+*.log
+*.exe.recipe
+*.lastbuildstate
+ipch/
+
+# Packaging output
+dist/
+
+# macOS
+.DS_Store
