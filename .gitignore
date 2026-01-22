@@ -8,7 +8,6 @@
 *.VC.VC.opendb
 
 # Build output
-**/Debug/
 **/Release/
 **/x64/
 **/Win32/

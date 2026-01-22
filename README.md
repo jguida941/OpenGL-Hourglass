@@ -9,15 +9,13 @@ wireframe outline) and supports basic camera movement.
 
 ## Quick Run (Windows)
 
-Recommended:
-1) Download the zip from GitHub Releases and unzip it.
-2) Keep this structure together:
-   - run.bat
-   - shaders/
-   - glew32.dll
-   - Debug/2-2_Assignment.exe (or 2-2_Assignment.exe next to run.bat)
-3) Double-click `run.bat`.
-4) If SmartScreen appears: "More info" -> "Run anyway".
+Steps:
+1) Open this folder after downloading or cloning.
+2) Double-click `run.bat`.
+3) If SmartScreen appears: "More info" -> "Run anyway".
+
+This repo includes `Debug/2-2_Assignment.exe`, so `run.bat` will just work as
+long as `run.bat`, `shaders/`, and `glew32.dll` stay together.
 
 Note: Do not run the EXE directly. Shaders load relative to the working
 directory and `run.bat` fixes that.
