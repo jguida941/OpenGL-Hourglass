@@ -5,7 +5,7 @@ wireframe outline) and supports basic camera movement.
 
 ## Screenshot
 
-![Screenshot](docs/screenshot.png)
+![OpenGL Hourglass 3D Scene](docs/screenshot.png)
 
 ## Quick Run (Windows)
 
